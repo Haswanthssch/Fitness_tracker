@@ -32,3 +32,17 @@ The Fitness Tracker is a Java application that helps users log their workouts, c
    ```bash
    git clone https://github.com/yourusername/FitnessTracker.git
    cd FitnessTracker
+   
+2. Compile the Java files:
+
+   ```bash
+   javac FitnessTracker.java
+   
+3. Run the Application
+
+   ```bash
+   java FitnessTracker
+### Usage
+Follow the prompts to enter your personal information.
+Log your workouts by selecting the type of exercise.
+Review the total calories burned and your BMI at the end of the session.
